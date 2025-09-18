@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Build artifacts
+*.o
+*.out
+*.a
+*.so
+*.dSYM/
+
+# Minishell binary
+minishell
+.DS_Store
